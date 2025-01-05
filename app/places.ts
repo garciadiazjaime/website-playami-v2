@@ -115,4 +115,121 @@ export default [
     phone: "526241574602",
     email: "",
   },
+  {
+    name: "Pizzas Del Pacifico",
+    slug: "pizzas-pacifico",
+    maps: "https://maps.app.goo.gl/2XPQtZGW3EMWpL4S7",
+    lat: 32.5281003,
+    lng: -117.1233371,
+    instagram:
+      "https://www.instagram.com/explore/locations/249516159/pizzas-del-pacifico/",
+    categories: {
+      food: true,
+      drinks: false,
+      cafe: false,
+    },
+    images: {
+      cover: "cover.jpg",
+    },
+    website: "https://www.facebook.com/PizzasPacifico",
+    description: {
+      default:
+        "Somos una pizzería comprometida con el servicio, bien estar y paladar de nuestros clientes.",
+    },
+    phone: "526646096680",
+    email: "",
+  },
+  {
+    name: "Giuseppis",
+    slug: "giuseppis",
+    maps: "https://maps.app.goo.gl/s3URuBTdZc2saXnq5",
+    lat: 32.5326601,
+    lng: -117.1146189,
+    instagram: "https://www.instagram.com/giuseppistj/",
+    categories: {
+      food: true,
+      drinks: false,
+      cafe: false,
+    },
+    images: {
+      cover: "cover.jpg",
+    },
+    website: "https://giuseppis.mx/sucursales/playas/",
+    description: {
+      default:
+        "Cuando tienes antojo de la mejor Comida Italiana en Tijuana, busca nuestras sucursales y visita la más cercana a ti.",
+    },
+    phone: "526646841013",
+    email: "contacto@grupoplascencia.com",
+  },
+  {
+    name: "Malvet",
+    slug: "malvet",
+    maps: "https://maps.app.goo.gl/kje9YQw4py1h3BWc8",
+    lat: 32.5239236,
+    lng: -117.1202583,
+    instagram: "https://www.instagram.com/malvetmx/",
+    categories: {
+      food: true,
+      drinks: false,
+      cafe: false,
+    },
+    images: {
+      cover: "cover.jpg",
+    },
+    website:
+      "https://www.canva.com/design/DAFlvMzGFDQ/Q4OBM1hBjrV6ZnA7BH6I-g/view",
+    description: {
+      default:
+        "Desayunos y Brunch desde el corazón de nuestra cocina hasta tu mesa",
+    },
+    phone: "526643783428",
+    email: "",
+  },
+  {
+    name: "Mariscos Arcos Playas",
+    slug: "mariscos-arcos-playas",
+    maps: "https://maps.app.goo.gl/mqH1PdCVUqAEwdqMA",
+    lat: 32.5329414,
+    lng: -117.1232782,
+    instagram: "https://www.instagram.com/mariscosarcosplayas/",
+    categories: {
+      food: true,
+      drinks: false,
+      cafe: false,
+    },
+    images: {
+      cover: "cover.jpg",
+    },
+    website: "https://linktr.ee/arcosplayas",
+    description: {
+      default:
+        "El mejor restaurante de mariscos en Tijuana, música en vivo todos los días",
+    },
+    phone: "526645707094",
+    email: "",
+  },
+  {
+    name: "Cruce Restaurante",
+    slug: "cruce-restaurante",
+    maps: "https://maps.app.goo.gl/jzcyX1z8j9LEHZfq5",
+    lat: 32.530987,
+    lng: -117.120275,
+    instagram: "https://www.instagram.com/crucerestaurante/",
+    categories: {
+      food: true,
+      drinks: false,
+      cafe: false,
+    },
+    images: {
+      cover: "cover.jpg",
+    },
+    website: "https://www.opentable.com.mx/r/cruce-restaurante-tijuana",
+    description: {
+      default:
+        "¿Están listos para probar el cruce de sabores? Baja Brunch & Grill",
+    },
+    phone: "526648521312",
+    email: "",
+  },
 ];

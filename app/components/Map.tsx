@@ -11,8 +11,8 @@ const containerStyle = {
 };
 
 const center = {
-  lat: 32.5195326,
-  lng: -117.1284786
+  lat: 32.5175326,
+  lng: -117.1154786
 };
 
 export default function Container(props: {
@@ -31,7 +31,7 @@ export default function Container(props: {
 
   if (isLoaded) {
     return (
-      <GoogleMap mapContainerStyle={containerStyle} zoom={12} center={center}>
+      <GoogleMap mapContainerStyle={containerStyle} zoom={15} center={center}>
         {props.places.map((place) => {
           return (
             <MarkerF
