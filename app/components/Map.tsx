@@ -11,8 +11,8 @@ const containerStyle = {
 };
 
 const center = {
-  lat: 32.0283518,
-  lng: -116.6355093,
+  lat: 32.5195326,
+  lng: -117.1284786
 };
 
 export default function Container(props: {
