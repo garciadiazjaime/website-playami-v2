@@ -3,8 +3,8 @@ export default [
     name: "Taquería El Frances",
     slug: "taqueria-el-frances",
     maps: "https://maps.app.goo.gl/CTzfPHWE9dbhKaZy6",
-    lat: 32.5119229,
-    lng: -117.1234214,
+    lat: 32.5130404,
+    lng: -117.1196463,
     instagram: "https://www.instagram.com/tacoselfrances/",
     categories: {
       food: true,
@@ -26,8 +26,8 @@ export default [
     name: "El Yogurt Place",
     slug: "yogurt-place",
     maps: "https://maps.app.goo.gl/AAhuBxPiHCk7JL1B6",
-    lat: 32.5332438,
-    lng: -117.1211217,
+    lat: 32.534018,
+    lng: -117.1204847,
     instagram: "https://www.instagram.com/elyogurtplace/",
     categories: {
       food: true,
@@ -49,8 +49,8 @@ export default [
     name: "Carl's Jr.",
     slug: "carls-jr-playas",
     maps: "https://maps.app.goo.gl/fB7VAcNPuzYDN1b26",
-    lat: 32.5210057,
-    lng: -117.1495331,
+    lat: 32.5314803,
+    lng: -117.1146818,
     instagram:
       "https://www.instagram.com/explore/locations/11855534/carls-jr-playas/",
     categories: {
@@ -74,8 +74,8 @@ export default [
     name: "Tijuanazo",
     slug: "tijuanazo",
     maps: "https://maps.app.goo.gl/G3U4bcj7XzfeNdwFA",
-    lat: 32.5297858,
-    lng: -117.1164479,
+    lat: 32.5299223,
+    lng: -117.1158081,
     instagram: "https://www.instagram.com/tijuanazo.mx/",
     categories: {
       food: true,
